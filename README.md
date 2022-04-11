@@ -1,2 +1,2 @@
-# academic-projects
-A repository for my academic projects.
+# Academic Projects
+This is the repository for my academic programming projects.
